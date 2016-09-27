@@ -180,6 +180,7 @@ blockquote {
   font-style: italic;
   font-size: 0.95em;
   margin: 20px 0 20px;
+  border-color: #ff7e79;
 }
 blockquote p {
   margin: 0;
